@@ -1,3 +1,3 @@
-function myFunction() {
-  
+function tester() {
+  Logger.log("Happy");
 }
