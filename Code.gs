@@ -1,3 +1,3 @@
 function tester() {
-  Logger.log("Happy");
+  Logger.log("Happy And the World!!");
 }
